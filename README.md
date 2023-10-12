@@ -1,3 +1,3 @@
 # ylxia10.github.io
 
-website link: https://ylxia10.github.io/
+webpage link: https://ylxia10.github.io/
